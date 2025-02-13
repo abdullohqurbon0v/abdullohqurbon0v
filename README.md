@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdulloh Kurbonov
+# 👋 Hi, I'm Abdulloh Qurbonov
 
 ![GitHub Followers](https://img.shields.io/github/followers/abdullohqurbon0v?style=social) ![GitHub Stars](https://img.shields.io/github/stars/abdullohqurbon0v?style=social)
 
