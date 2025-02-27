@@ -2,16 +2,16 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/abdullohqurbon0v?style=social) ![GitHub Stars](https://img.shields.io/github/stars/abdullohqurbon0v?style=social)
 
-[![Instagram](https://img.shields.io/badge/Instagram-f542e0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abu_developer._) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullohkurbonov2008@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abdulloh_qurbonovvv) [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullohfolio-3.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-f542e0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abu_developer._) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullohqurnobov@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abdulloh_qurbonovvv) [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullohfolio-3.vercel.app/)
 
 ---
 
 ## 🚀 About Me
-- 🔥 I’m currently working on **React, Node.js, and Electron.js projects**
+- 🔥 I’m currently working on **Next.js, Node.js, and Electron.js projects**
 - 🌱 I’m currently learning **Advanced Frontend & Backend technologies**
 - 🤝 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Full-stack development, REST APIs, React, and Electron.js**
-- 📫 Reach me at: [abdullohkurbonov2008@gmail.com](mailto:abdullohkurbonov2008@gmail.com)
+- 💬 Ask me about **Full-stack development, REST APIs and Mern Stack projects**
+- 📫 Reach me at: [abdullohqurnobov@gmail.com](mailto:abdullohqurnobov@gmail.com)
 
 ---
 
