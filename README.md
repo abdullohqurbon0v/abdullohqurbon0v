@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Abdulloh Qurbonov
-[![Custom Animated Graph](graph.svg)](https://github.com/abdullohqurbon0v)
 
 ![GitHub Followers](https://img.shields.io/github/followers/abdullohqurbon0v?style=social) ![GitHub Stars](https://img.shields.io/github/stars/abdullohqurbon0v?style=social)
 
