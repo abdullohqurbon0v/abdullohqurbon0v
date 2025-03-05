@@ -67,7 +67,8 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullohqurbon0v&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullohqurbon0v&layout=compact&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullohqurbon0v&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullohqurbon0v&bg_color=0d1117&color=00aaff&line=0077ff&point=66ccff&area=true)
+
 
 ---
 
