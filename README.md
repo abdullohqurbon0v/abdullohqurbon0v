@@ -1,4 +1,15 @@
-# 👋 Hi, I'm Abdulloh Qurbonov
+// # 👋 Hi, I'm Abdulloh Qurbonov
+<svg width="600" height="300" viewBox="0 0 600 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="300" fill="#0d1117" />
+  <text x="50%" y="40" font-size="24" fill="#00aaff" text-anchor="middle" font-family="Arial">Abdulloh Qurbonov</text>
+  <polyline points="50,250 100,200 150,220 200,180 250,190 300,140 350,160 400,110 450,130 500,80" 
+            stroke="#0077ff" stroke-width="3" fill="none" stroke-linecap="round">
+    <animate attributeName="points" dur="2s" repeatCount="indefinite"
+             values="50,250 100,250 150,250 200,250 250,250 300,250 350,250 400,250 450,250 500,250; 
+                     50,250 100,200 150,220 200,180 250,190 300,140 350,160 400,110 450,130 500,80; 
+                     50,250 100,250 150,250 200,250 250,250 300,250 350,250 400,250 450,250 500,250" />
+  </polyline>
+</svg>
 
 ![GitHub Followers](https://img.shields.io/github/followers/abdullohqurbon0v?style=social) ![GitHub Stars](https://img.shields.io/github/stars/abdullohqurbon0v?style=social)
 
