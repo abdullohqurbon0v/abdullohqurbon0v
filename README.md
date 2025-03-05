@@ -67,6 +67,7 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullohqurbon0v&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullohqurbon0v&layout=compact&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Nayimjonov&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=ff8c00&hide_border=true&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="48%" alt="@Nayimjonov's github-readme-streak-stats"/>
 
 ---
 
