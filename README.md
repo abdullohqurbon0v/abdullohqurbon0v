@@ -42,6 +42,6 @@
 ---
 
 ## 🤝 Let's Connect
-- [Instagram](https://www.instagram.com/a_qurbonov_/)  
+- <b>Instagram:</b> (https://www.instagram.com/a_qurbonov_/)  
 - [Telegram](https://t.me/abdulloh_qurbonovvv)  
 - [Personal Website](https://abdullohfolio-3.vercel.app/)
