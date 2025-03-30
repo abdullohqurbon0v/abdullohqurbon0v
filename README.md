@@ -43,5 +43,5 @@
 
 ## 🤝 Let's Connect
 - <b>Instagram:</b> [abu_developer._](https://www.instagram.com/a_qurbonov_/)  
-- <b>Instagram:</b> [abdulloh_qurbonovvv](https://t.me/abdulloh_qurbonovvv)  
-- <b>Instagram:</b> [Personal Website](https://abdullohfolio-3.vercel.app/)
+- <b>Telegram:</b> [abdulloh_qurbonovvv](https://t.me/abdulloh_qurbonovvv)  
+- <b>Web site:</b> [Personal Website](https://abdullohfolio-3.vercel.app/)
