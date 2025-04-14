@@ -15,7 +15,6 @@ Working with modern tech like **Next.js**, **React**, **Tailwind CSS**, and **Ty
 I craft clean UI with a pinch of magic ✨
 
 ```js
-// 🧑‍💻 Welcome to Abdulloh Qurbonov's README
 
 const Abdulloh = {
   name: "Abdulloh Qurbonov",
