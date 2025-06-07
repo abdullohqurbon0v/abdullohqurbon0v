@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdulloh Qurbonov
 
 ![GitHub Followers](https://img.shields.io/github/followers/abdullohqurbon0v?style=social) ![GitHub Stars](https://img.shields.io/github/stars/abdullohqurbon0v?style=social)
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdullohqurbon0v&label=Profile%20views&color=0e75b6&style=plastic" alt="abdullohqurbon0v" /> </p>
 [![Instagram](https://img.shields.io/badge/Instagram-f542e0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abu_developer._) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullohqurnobov@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abdulloh_qurbonovvv) [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullohfolio-3.vercel.app/)
 
 ---
