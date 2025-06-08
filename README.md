@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/abdullohqurbon0v?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/abdullohqurbon0v?style=social" alt="GitHub Stars" />
   <img src="https://komarev.com/ghpvc/?username=abdullohqurbon0v&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile Views" />
 </p>
 
