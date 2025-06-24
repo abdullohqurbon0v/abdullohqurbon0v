@@ -31,7 +31,9 @@ uname -a
 
 ## 🛠️ Tech Stack | apt install skills
 ```bash
-ls -l /frontend
+┌──(kali㉿hack)-[~]
+└─$ls -l /frontend
+total 232
 ```
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&#x26;logo=html5&#x26;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&#x26;logo=css3&#x26;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&#x26;logo=bootstrap&#x26;logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&#x26;logo=tailwind-css&#x26;logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&#x26;logo=sass&#x26;logoColor=white" alt="Sass">
 ```bash
