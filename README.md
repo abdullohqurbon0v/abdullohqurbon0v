@@ -1,6 +1,6 @@
 # 👾 Abdulloh Qurbonov | Cyber Coder
 
-```bash
+```
 whoami
 # Abdulloh Qurbonov - Full-stack Dev | Open Source Enthusiast | Linux Geek
 ```
