@@ -1,8 +1,8 @@
 # 👾 Abdulloh Qurbonov | Cyber Coder
 
-```
+```bash
 whoami
-# Abdulloh Qurbonov - Full-stack Dev | Open Source Enthusiast | Linux Geek
+# Abdulloh Qurbonov - To'liq stack dasturchi | Open Source ishqibozi | Linux geek
 ```
 <img src="https://img.shields.io/github/followers/abdullohqurbon0v?style=social" alt="GitHub Followers">
 <img src="https://komarev.com/ghpvc/?username=abdullohqurbon0v&#x26;label=Profile%20Views&#x26;color=0e75b6&#x26;style=plastic" alt="Profile Views">
