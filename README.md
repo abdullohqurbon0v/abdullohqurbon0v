@@ -9,6 +9,7 @@ whoami
 
 ```bash
 curl -s https://api.abdulloh.dev/connect
+
 ```
 
 <img src="https://img.shields.io/badge/Instagram-f542e0?style=for-the-badge&#x26;logo=instagram&#x26;logoColor=white" alt="Instagram"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white" alt="Email"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&#x26;logo=telegram&#x26;logoColor=white" alt="Telegram"> <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&#x26;logo=vercel&#x26;logoColor=white" alt="Website">
